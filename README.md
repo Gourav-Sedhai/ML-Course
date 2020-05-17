@@ -1,2 +1,2 @@
 # ML-Course
-ML, Deep Learning, Data Science
+ML, Deep Learning and Data Science.
